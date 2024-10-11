@@ -10,7 +10,7 @@
 
 ### 💼 Experience:
 - Developed and optimized AI-driven systems for predictive analysis
-- Experienced in building end-to-end data pipelines, ETL processes, and machine learning models
+- Experienced in building end-to-end data pipelines, ETL processes, and machine-learning models
 - Strong background in data visualization using PowerBI and Tableau
 - Practical hands-on experience with Python, R, and SQL for data analysis
 
@@ -18,7 +18,6 @@
 - **Email:** nattakan.lamtem@gmail.com
 - **Phone:** (+66) 82-2974555
 - **LinkedIn:** [(https://www.linkedin.com/in/mr-nattakan-lamtem-397356192/)](#) (Add link to your LinkedIn profile)
-- **GitHub:** [Your GitHub Profile](#) 
 - **Porfolio:**[https://nattakanlamtem.wixsite.com/my-portfolio/s-projects-side-by-side](#) 
 
 ### 🚀 Skills:
